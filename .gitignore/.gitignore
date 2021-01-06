@@ -1,0 +1,14 @@
+#OS generated garbage
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+# Other files and folders 
+Library/
+Packages/
+ProjectSettings/
+Temp/
